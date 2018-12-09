@@ -21,4 +21,4 @@ PRODUCT_PACKAGES += \
     libbtnv \
 
 #com.qualcomm.services.location
-$(call inherit-product, vendor/lge/w55ds/w55ds-vendor-blobs.mk)
+$(call inherit-product, vendor/lge/w55n/w55n-vendor-blobs.mk)
